@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+OK9 là một nhà cái trực tuyến được cấp phép hợp pháp bởi Isle of Man và Khu kinh tế Cagayan and Freeport - 2ok9.com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`OK9 <https://2ok9.com/>`_ là một thương hiệu nhà cái cá cược hàng đầu tại Việt Nam, được biết đến với sự uy tín và độ tin cậy cao. OK9 không chỉ là nơi cung cấp các trò chơi, thể thao, đá gà, game bài, nổ hũ, xổ số đa dạng mà còn là điểm đến lựa chọn cho giới chơi cá cược online. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Được cấp phép bởi Isle of Man và Khu kinh tế Cagayan and Freeport, OK9 cam kết đảm bảo an toàn và bảo mật thông tin cho người chơi. Với kinh nghiệm dày dặn và danh tiếng được khẳng định trên thị trường, OK9 không ngừng nâng cao chất lượng dịch vụ và mang lại trải nghiệm chơi game tốt nhất cho người dùng.
 
-.. note::
+Thông tin liên hệ:
 
-   This project is under active development.
+Địa chỉ: 38 Hòa An 9, Cẩm Lệ, Đà Nẵng, Việt Nam. 
 
-Contents
---------
+Phone: 0396887986. 
 
-.. toctree::
+Email: nhacaiok9@gmail.com. 
 
-   usage
-   api
+Website: https://2ok9.com/
+
+#ok9 #nhacaiok9 #trangchuok9 #dangkyok9 #linkok9
